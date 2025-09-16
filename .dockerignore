@@ -1,0 +1,10 @@
+.venv
+*.ipynb
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.vscode/
+*.log
+*.tmp
